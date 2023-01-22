@@ -1,5 +1,5 @@
 ---
-title: 古代的中国人是如何看待世界的
+title: 传统中国人认识世界的曲折和挫折
 date: 2023/1/22
 tag: Cognitive
 author: Jackey
