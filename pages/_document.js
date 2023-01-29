@@ -26,14 +26,6 @@ export default function Document() {
         <Main />
         <NextScript />
       </body>
-      <script src="https://utteranc.es/client.js"
-        repo="jackeydou/portfolio"
-        issue-term="url"
-        theme="github-dark"
-        crossorigin="anonymous"
-        path="posts"
-        async>
-      </script>
     </Html>
   )
 }
